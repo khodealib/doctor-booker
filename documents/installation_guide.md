@@ -18,8 +18,8 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/doctor-appointment-booking-system.git
-   cd doctor-appointment-booking-system
+   git clone https://github.com/khodealib/doctor-booker.git
+   cd doctor-booker
    ```
 
 2. **Create and activate a virtual environment**:
@@ -64,8 +64,8 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/doctor-appointment-booking-system.git
-   cd doctor-appointment-booking-system
+   git clone https://github.com/khodealib/doctor-booker.git
+   cd doctor-booker
    ```
 
 2. **Build and run the containers**:
