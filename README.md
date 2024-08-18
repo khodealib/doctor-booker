@@ -70,9 +70,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, suggestions, or contributions, please contact:
 
-- **Your Name**
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Ali Bagheri**
+- **Email**: khodealib@gmail.com
+- **GitHub**: [yourusername](https://github.com/khodealib)
 
 ---
 
