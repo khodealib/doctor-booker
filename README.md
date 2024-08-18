@@ -72,7 +72,7 @@ For questions, suggestions, or contributions, please contact:
 
 - **Ali Bagheri**
 - **Email**: khodealib@gmail.com
-- **GitHub**: [yourusername](https://github.com/khodealib)
+- **GitHub**: [khodealib](https://github.com/khodealib)
 
 ---
 
